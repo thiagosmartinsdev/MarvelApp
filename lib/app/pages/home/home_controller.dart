@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:marvel_app/app/data/models/personagem.dart';
-import 'package:marvel_app/app/repositories/personagens_repository.dart';
+import 'package:marvel_app/app/data/repository/personagens_repository.dart';
 import 'package:mobx/mobx.dart';
 part 'home_controller.g.dart';
 
